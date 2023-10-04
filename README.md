@@ -38,6 +38,6 @@ This project can be further improved by adding additional features such as a hig
 
 ## Contact
 
-If you have any questions, feedback, or would like to contribute to this project, please don't hesitate to reach out to the project owner at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions, feedback, or would like to contribute to this project, please don't hesitate to reach out. 
 
 Thank you for checking out this project, and enjoy playing the guessing game!
